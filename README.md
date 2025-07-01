@@ -1,7 +1,7 @@
 # Rosetta AI tour Guide
-- Demo: 
+- Demo Link: 
 
-
+---
 <div align="center">
   <img src="logo.png" alt="Rosetta Logo" width="200"/>
 </div>
