@@ -118,27 +118,6 @@ The core of Rosetta is its sophisticated NLP service, which runs a stateful agen
 
 
 
-## 📁 Project Structure
-
-```python
-rosetta/
-├── backend/             # Main backend (Azure ACA)
-│   ├── src/
-│   └── requirements.txt
-│   └── ...
-├── nlp_/                 # NLP Agentic Service (Private Azure ACA)
-│   ├── main.py           # FastAPI endpoints
-│   ├── agents.py         # LangGraph workflow definition
-│   ├── utils.py          # Utility functions
-│   ├── prompts.py        # All LLM prompts
-│   └── .env.example
-├── landing_page/         # Landing page for the app
-│   └── ...
-├── data/                 # Scripts for data collection, augmentation
-├── models/               # Trained model files (e.g., YOLOv8n)
-└── README.md
-```
-
 ---
 
 ## Team Members
