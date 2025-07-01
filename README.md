@@ -3,7 +3,7 @@
 # Rosetta: Your AI-Powered Egyptian History Guide
 
 <div align="center">
-  <img src=logo.png" alt="Rosetta Logo" width="200"/>
+  <img src="logo.png" alt="Rosetta Logo" width="200"/>
 </div>
 
 <p align="center">
