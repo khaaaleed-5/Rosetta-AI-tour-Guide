@@ -1,6 +1,5 @@
 # Rosetta-AI-tour-Guide
 
-# Rosetta: Your AI-Powered Egyptian History Guide
 
 <div align="center">
   <img src="logo.png" alt="Rosetta Logo" width="200"/>
