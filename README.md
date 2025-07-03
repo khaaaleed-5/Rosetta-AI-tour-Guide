@@ -31,10 +31,10 @@ Rosetta is an AI-powered mobile application designed to bridge the gap between c
 - **🔍 Self-Correcting Mechanism**
 - **🖼️ Intelligent Image Analysis**
 - **⚡ Real-time Streaming**
-- 
+  
 ## 🏛️ System Architecture
 
-The Rosetta system is composed of several microservices that work in harmony to deliver a seamless user experience. The architecture is designed for scalability, security, and performance.
+- The Rosetta system is composed of several microservices that work in harmony to deliver a seamless user experience. The architecture is designed for scalability, security, and performance.
 ---
 
 ## Team Members
